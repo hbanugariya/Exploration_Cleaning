@@ -1,6 +1,3 @@
-# PortfolioProjects
-Projects that are going to be displayed on my Portfolio
-
 # Data Exploration Project
 Skills: SQL, Joins, CTE, Temp Tables, View
 
