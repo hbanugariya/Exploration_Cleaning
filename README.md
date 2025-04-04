@@ -9,4 +9,4 @@ Exploration of COVID-19 fatalities and vaccination statistics sourced from the O
 # Data Cleaning Project
 Skills: SQL, Self Join, CTE, Update, Alter
 
--I cleaned the data, employed a self-join to fill missing values, and utilized Common Table Expressions (CTE) with ROW_NUMBER() to eliminate duplicate rows. Additionally, I split a single column into 2-3 individual columns for improved data organization. The resulting dataset is now streamlined, free of duplicates, and structured for more effective analysis.
+I cleaned the data, employed a self-join to fill missing values, and utilized Common Table Expressions (CTE) with ROW_NUMBER() to eliminate duplicate rows. Additionally, I split a single column into 2-3 individual columns for improved data organization. The resulting dataset is now streamlined, free of duplicates, and structured for more effective analysis.
